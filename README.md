@@ -9,7 +9,6 @@ This project is a React application that fetches and displays characters from th
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
